@@ -18,7 +18,7 @@ Multi-threaded Operations: Ensures smooth performance without freezing the app.
 📦 Installation
 Ensure you have Python 3.7+ installed on your system.
 Clone this repository:
-git clone https://github.com/yourusername/unused-app-remover.git
+git clone https://github.com/resl1337/Unused-App-Remover.git
 cd unused-app-remover
 
 Install the required dependencies.
